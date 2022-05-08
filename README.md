@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaidmermam
 - 👀 I’m interested in game development
 - 🌱 I’m currently mastering unity
-- 💞️ I love... myself 
+- 💞️ Married to c#
 - 📫 How to reach me : here is my discord : Kazoya();#9598 copy and paste it !
 
 <!---
