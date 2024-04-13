@@ -26,7 +26,7 @@ You can find my pixel art at: https://www.reddit.com/user/zaidmermam/submitted/
 
 
 ## Contact
-If somehow someone wants to have a chat with me - doubt that - I prefer slapping a DM at Discord: @kazoya
+If somehow someone wants to have a chat with me (͡° ͜ʖ ͡°) I prefer slapping a DM at Discord: @kazoya
 <!---
 zaidmermam/zaidmermam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
