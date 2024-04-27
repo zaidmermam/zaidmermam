@@ -1,6 +1,6 @@
 # Hi there, TLDR;
-- 🎨 Pixel Artist
 - 🕹️ Unity Game Developer
+- 🎨 Pixel Artist
 - 🌱 Casual Competitive Programmer
 - 💞️ C#, C++
 - 📫 Discord: @kazoya
