@@ -10,6 +10,7 @@ Curious about how games are made, I found out about Game Dev & Unity at the age 
 
 ## Projects?
 all of the following are freelancing projects in some way or another:
+- **[Deep - Sudoku Game](https://kazoya.itch.io/deep-sudoku-game)** (Free Game): cross platform sudoku application.
 - **[Vocabs Break](https://picalica.com/go/2629)** (Paid Product): mobile word-guessing game.
 - **[Flap](https://picalica.com/go/2349)** (Paid Product): flappy bird clone (who would've thought).
 - **[Heads or Tails: meow edition]()** (Free web game): heads or tails but for cats (client's idea, no questions)
