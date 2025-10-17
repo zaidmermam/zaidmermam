@@ -9,6 +9,9 @@
 Curious about how games are made, I found out about Game Dev & Unity at the age of 12, made a bunch of crappy stuff then somehow transferred into doing multiple freelancing projects for clients around the globe.
 
 ## Projects?
+check out some of my jam games:
+- **[Hole-y Golf!](https://kazoya.itch.io/hole-y-golf)**
+- **[Moo Moo Ranch](https://yolwoocle.itch.io/moo-moo-ranch)**
 all of the following are freelancing projects in some way or another:
 - **[Deep - Sudoku Game](https://kazoya.itch.io/deep-sudoku-game)** (Free Game): cross platform sudoku application.
 - **[Vocabs Break](https://picalica.com/go/2629)** (Paid Product): mobile word-guessing game.
@@ -27,7 +30,8 @@ You can find my pixel art at: https://www.reddit.com/user/zaidmermam/submitted/
 
 
 ## Contact
-If somehow someone wants to have a chat with me (͡° ͜ʖ ͡°) I prefer slapping a DM at Discord: @kazoya
+Email: mermamzaid [at] gmail [dot] com
+Discord: @kazoya
 <!---
 zaidmermam/zaidmermam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
